@@ -1,0 +1,5 @@
+Z:\Users\Vlad\Desktop\Аттестация 2\MyLibr\bin\Debug\MyLibr.dll
+Z:\Users\Vlad\Desktop\Аттестация 2\MyLibr\bin\Debug\MyLibr.pdb
+Z:\Users\Vlad\Desktop\Аттестация 2\MyLibr\obj\Debug\MyLibr.dll
+Z:\Users\Vlad\Desktop\Аттестация 2\MyLibr\obj\Debug\MyLibr.pdb
+Z:\Users\Vlad\Desktop\Аттестация 2\MyLibr\obj\Debug\MyLibr.csprojResolveAssemblyReference.cache

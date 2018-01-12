@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\bin\Debug\Formula.exe.config
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\bin\Debug\Formula.exe
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\bin\Debug\Formula.pdb
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\obj\Debug\Formula.exe
+C:\Users\Vlad\source\repos\Аттестация 2\Formula\obj\Debug\Formula.pdb
